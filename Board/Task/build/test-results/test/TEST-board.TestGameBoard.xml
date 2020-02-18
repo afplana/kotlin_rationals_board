@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="board.TestGameBoard" tests="11" skipped="0" failures="0" errors="0" timestamp="2020-02-12T21:50:46" hostname="aplanas9009-HP-EliteBook-840-G3" time="0.039">
+  <properties/>
+  <testcase name="test01GetAndSetElement" classname="board.TestGameBoard" time="0.023"/>
+  <testcase name="test02Filter" classname="board.TestGameBoard" time="0.003"/>
+  <testcase name="test03All" classname="board.TestGameBoard" time="0.001"/>
+  <testcase name="test04Any" classname="board.TestGameBoard" time="0.002"/>
+  <testcase name="test05TheSameCell" classname="board.TestGameBoard" time="0.001"/>
+  <testcase name="test06FindReturnsTheSameCell" classname="board.TestGameBoard" time="0.001"/>
+  <testcase name="test07FilterTheSameCell" classname="board.TestGameBoard" time="0.0"/>
+  <testcase name="test08AllAny" classname="board.TestGameBoard" time="0.006"/>
+  <testcase name="test09AllAny" classname="board.TestGameBoard" time="0.0"/>
+  <testcase name="test10AllAny" classname="board.TestGameBoard" time="0.001"/>
+  <testcase name="test11AllAny" classname="board.TestGameBoard" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

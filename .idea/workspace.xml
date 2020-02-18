@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="572dafed-ec0b-44d8-a746-b14fe40bbeca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Kotlin_for_Java_Developers._Week_4" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Kotlin_for_Java_Developers._Week_4" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Kotlin_for_Java_Developers._Week_4" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Kotlin_for_Java_Developers._Week_4" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1XP3SLHEORJgxl8QJBNwN8s5bBM" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="/usr/lib/jvm/java-11-openjdk-amd64" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28965518" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'Board-Task_test'">
+    <configuration name="Kotlin for Java Developers. Week 4 [compileKotlin]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="compileKotlin" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Kotlin for Java Developers. Week 4 [dependencies]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'Board-Task_test'" type="GradleRunConfiguration" factoryName="Gradle" activateToolWindowBeforeRun="false" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Board-Task:cleanTest" />
+            <option value=":Board-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'Rationals-Task_test'" type="GradleRunConfiguration" factoryName="Gradle" activateToolWindowBeforeRun="false" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Rationals-Task:cleanTest" />
+            <option value=":Rationals-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="rationals.RationalKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Rationals-Task_main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="rationals.RationalKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'Board-Task_test'" />
+        <item itemvalue="Gradle.Tests in 'Rationals-Task_test'" />
+        <item itemvalue="Kotlin.rationals.RationalKt" />
+        <item itemvalue="Gradle.Kotlin for Java Developers. Week 4 [compileKotlin]" />
+        <item itemvalue="Gradle.Kotlin for Java Developers. Week 4 [dependencies]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="572dafed-ec0b-44d8-a746-b14fe40bbeca" name="Default Changelist" comment="" />
+      <created>1580933900174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580933900174</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="103" width="442" height="560" key="#com.intellij.ide.util.MemberChooser" timestamp="1581542500033">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="457" y="103" width="442" height="560" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1581542500033" />
+    <state x="305" y="126" width="907" height="507" key="FileChooserDialogImpl" timestamp="1581270204523">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="305" y="126" width="907" height="507" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1581270204523" />
+    <state width="1320" height="184" key="GridCell.Tab.0.bottom" timestamp="1581544245939">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581544245939" />
+    <state width="1320" height="184" key="GridCell.Tab.0.center" timestamp="1581544245935">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1581544245935" />
+    <state width="1320" height="184" key="GridCell.Tab.0.left" timestamp="1581544245934">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1581544245934" />
+    <state width="1320" height="184" key="GridCell.Tab.0.right" timestamp="1581544245938">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="184" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1581544245938" />
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom" timestamp="1581539657596">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1581539657596" />
+    <state width="1320" height="230" key="GridCell.Tab.1.center" timestamp="1581539657594">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1581539657594" />
+    <state width="1320" height="230" key="GridCell.Tab.1.left" timestamp="1581539657594">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1581539657594" />
+    <state width="1320" height="230" key="GridCell.Tab.1.right" timestamp="1581539657595">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1320" height="230" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1581539657595" />
+    <state x="166" y="0" width="1024" height="766" key="SettingsEditor" timestamp="1581270238061">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="166" y="0" width="1024" height="766" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1581270238061" />
+    <state x="339" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1582055222277">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1582055222277" />
+  </component>
+</project>
